@@ -1,0 +1,8 @@
+# .gitignore
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+miguel-yu-junhao-exam.zip
+*.zip
