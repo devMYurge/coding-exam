@@ -1,0 +1,11 @@
+# Question 1 — On-Call Assistant dependencies.
+# Install with: pip install -r requirements.txt
+
+fastapi
+uvicorn
+pydantic
+beautifulsoup4
+fastembed
+langchain
+langchain-core
+langchain-openai
